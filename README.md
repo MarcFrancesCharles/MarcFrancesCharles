@@ -1,3 +1,1 @@
-																							<center>
-																								<img width="330" height="330" alt="MFC" src="https://github.com/user-attachments/assets/6ff9d744-c9a2-4c5f-a1ed-0573046e1115" />
-																							</center>
+<img width="350" height="350" alt="MFC" src="https://github.com/user-attachments/assets/1ca9a7b8-d312-44a5-ac5e-6b968736a739" />
